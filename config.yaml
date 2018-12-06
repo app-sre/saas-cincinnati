@@ -1,0 +1,7 @@
+contexts:
+- data:
+    output_dir: cincinnati-processed
+    services_dir: cincinnati-services
+    templates_dir: cincinnati-templates
+  name: cincinnati
+current: cincinnati
