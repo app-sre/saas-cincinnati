@@ -1,5 +1,5 @@
 services:
-- hash: cfa2c314fcf3d59a977bd9cd24c6c6cf5a489a64
+- hash: 1aa63fe5d1e0194c0015fee8eff80278b8bf4a2d
   name: cincinnati
   path: /dist/openshift/cincinnati.yaml
   url: https://github.com/openshift/cincinnati
